@@ -1,7 +1,7 @@
 <div align='center'>
 
-<h1>Resgrid Responder Application</h1>
-<p>Resgrid Responder App which is small mobile application or PWA to give personnel in a department the options to interact with it. Set staffing, status, respond to calls, send messages, signup for shifts, read docs and more</p>
+<h1>Fetan Responder Application</h1>
+<p>Fetan Responder App which is small mobile application or PWA to give personnel in a department the options to interact with it. Set staffing, status, respond to calls, send messages, signup for shifts, read docs and more</p>
 
 
 

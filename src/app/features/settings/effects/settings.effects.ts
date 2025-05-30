@@ -502,7 +502,7 @@ export class SettingsEffects {
 			switchMap((action) => this.alertProvider.showOkAlert(
 			  'Background Geolocation',
 			  '',
-			  'If you enable background geolocation Resgrid Responder will continue to send your position to the server even if you are not in the app.',
+			  'If you enable background geolocation Fetan Responder will continue to send your position to the server even if you are not in the app.',
 			))
 		  ),
 		{ dispatch: false }

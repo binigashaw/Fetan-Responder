@@ -1,6 +1,6 @@
 {
 	"appId": "com.wavetech.Resgrid",
-	"appName": "Resgrid Responder",
+	"appName": "Fetan Responder",
 	"webDir": "www",
 	"bundledWebRuntime": false,
 	"android": {

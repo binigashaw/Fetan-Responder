@@ -85,7 +85,7 @@ const getBaseUrl = (): string => {
 		StoreRouterConnectingModule.forRoot(),
 		StoreDevtoolsModule.instrument({
 			maxAge: 10,
-			name: 'Resgrid Responder',
+			name: 'Fetan Responder',
 			logOnly: environment.production,
 		}),
 		IonicStorageModule.forRoot({

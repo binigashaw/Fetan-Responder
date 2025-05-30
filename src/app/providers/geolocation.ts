@@ -162,7 +162,7 @@ export class GeolocationProvider {
 					function callback(location, error) {
 						if (error) {
 							if (error.code === 'NOT_AUTHORIZED') {
-								if (window.confirm('The Resgrid Responder app needs your location, ' + 'but does not have permission.\n\n' + 'Open settings now?')) {
+								if (window.confirm('The Fetan Responder app needs your location, ' + 'but does not have permission.\n\n' + 'Open settings now?')) {
 									// It can be useful to direct the user to their device's
 									// settings when location permissions have been denied. The
 									// plugin provides the 'openSettings' method to do exactly
